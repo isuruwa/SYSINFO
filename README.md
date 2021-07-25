@@ -12,8 +12,8 @@
 
 # Features : <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
  * Full Diagnostic Scan
- * Full Hardware , Network , system Information Log .
- * Saving Report as a txt file .
+ * Full Hardware , Network , system Information Log 
+ * Saving Report as a txt file 
 
 # Support : <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
 * All Windows Versions
